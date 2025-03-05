@@ -1,7 +1,7 @@
 # Maintainer: Shohei Maruyama <cheat.sc.linux@outlook.com>
 
 pkgname=ttf-plemoljp-bin
-pkgver=2.0.2
+pkgver=2.0.3
 pkgrel=1
 pkgdesc='Plex Mono Language JP'
 arch=('any')
@@ -17,9 +17,9 @@ source=(
 	"LICENSE::https://github.com/yuru7/PlemolJP/raw/v${pkgver}/LICENSE"
 )
 sha256sums=(
-	'a1767a4e527a0a2e9b143acbe2074aace98c9985cb21cb84801fed4a7ce7599f'
-	'9f41c4928f1f18b996fd998af9c474bc521703c3a83c01ec0fc014cc1d9640f7'
-	'1f309e1247609d116f5cbc2ed01b1a269b4642105798f6507fa4e09a1844483d'
+	'9a95404b4dea7adf77e3b487f41d6914e3de594cb38e3abd6547c587a18b6a6b'
+	'cc1496750d14c0e113019b3da00e5f11a97f6de20a025ca69242a5127970a2ff'
+	'6520a6b52d3943370683e13357ce8e54e7342bd29c7358497d6ec9ea8c8e9256'
 	'52bbb5e729acc62435831d20641ece6a919e610100285ba183ef4d7233fb1e9a'
 )
 
