@@ -1,6 +1,6 @@
 # Maintainer: Shohei Maruyama <cheat.sc.linux@outlook.com>
 
-pkgname=ttf-plemoljp-bin
+pkgname=my-ttf-plemoljp-bin
 pkgver=2.0.3
 pkgrel=1
 pkgdesc='Plex Mono Language JP'
